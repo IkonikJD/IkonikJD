@@ -2,33 +2,34 @@
 
 ![Jose David Banner](https://github.com/user-attachments/assets/bdbe6b46-d9d3-4f08-a960-cca714b131ce)
 
-[![@josedavidprieto](https://img.icons8.com/fluency/48/000000/linkedin.png "@josedavidprieto")](https://www.linkedin.com/in/jdavidprietosuarez) [![Portfolio - JDavidps.com](https://img.icons8.com/?size=48&id=VJz2Ob51dvZJ&format=png&color=000000 "Portfolio - JDavidps")](jdavidps95@gmail.com) [![@jdavidps95@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@jdavidps95@gmail.com")](jdavidps95@gmail.com)
+[![@josedavidprieto](https://img.icons8.com/fluency/48/000000/linkedin.png "@josedavidprieto")](https://www.linkedin.com/in/jdavidprietosuarez) [![Portfolio - JDavidps.com](https://img.icons8.com/?size=48&id=VJz2Ob51dvZJ&format=png&color=000000 "Portfolio - JDavidps")](https://josedavidps.netlify.app/) [![@jdavidps95@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@jdavidps95@gmail.com")](mailto:jdavidps95@gmail.com)
 
 </div>
 
-# 👋 Sobre mí
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Sobre mí
 
-👨‍💻 **FullStack Developer** apasionado con un fuerte enfoque en el **desarrollo en la nube** utilizando **Azure**.
+👨‍💻 **FullStack Developer** enfocado en **desarrollo en la nube** con **Azure**.
 
-🚀 He trabajado como **freelancer** en diversos proyectos, combinando experiencia práctica con sólidos conocimientos técnicos.
+🚀 Con experiencia como **freelancer**, he trabajado en proyectos prácticos y obtenido certificaciones en tecnologías clave.
 
-📜 **Certificaciones**: 
-- React ⚛️ 
-- Java ☕ 
-- Git 🌱 
-- Azure AZ-204 ☁️ 
+📜 **Certificaciones**: React ⚛️ - Java ☕ - Git 🌱 - Azure AZ-204 (en proceso) ☁️ 
 
-💡 Aunque mi trayectoria sigue creciendo, ya cuento con una base sólida en **desarrollo FullStack** y **Cloud Computing**, sobre todo en el entorno de **Azure**.
+💡 Mi experiencia abarca **desarrollo FullStack** y **Cloud Computing**, con énfasis en soluciones escalables.
 
-🛠️ **Habilidades técnicas**:
-- Implementación de **soluciones escalables** y seguras.
-- Experiencia en **seguridad informática**.
-- Dirección y liderazgo de **proyectos personales**.
+🎯 Soy creativo y proactivo, con facilidad para adaptarme y resolver problemas.
 
-🎯 Me caracterizo por mi **creatividad** y capacidad para **resolver problemas** rápidamente, adaptándome fácilmente a nuevos entornos. Además, destaco por mi **responsabilidad** y **proactividad** en cada proyecto.
+🌟 Siempre buscando nuevos desafíos y oportunidades para crecer.
 
-🤝 Mi **liderazgo** se refleja en la capacidad para gestionar equipos y dirigir **iniciativas tecnológicas** hacia el éxito.
+<br>
 
-🌟 ¡Siempre en búsqueda de nuevos desafíos y oportunidades para seguir creciendo!
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=astro,cs,css,git,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,tailwind,ts,vscode,visualstudio,windows&perline=14" /> 
+  </a>
+</div>
+
+
 
 
