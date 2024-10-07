@@ -20,15 +20,14 @@
 
 🌟 Siempre buscando nuevos desafíos y oportunidades para crecer.
 
-<br>
-
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,cs,css,git,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,tailwind,ts,vscode,visualstudio,windows&perline=14" /> 
+    <img src="https://skillicons.dev/icons?i=astro,bash,bootstrap,cs,css,django,git,github,html,java,js,linux,md,mongodb,mysql,nextjs,nodejs,php,postman,powershell,py,react,spring,tailwind,ts,vscode,visualstudio,windows&perline=14" /> 
   </a>
 </div>
+
 
 
 
