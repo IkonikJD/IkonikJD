@@ -12,7 +12,7 @@
 
 🚀 Con experiencia como **freelancer**, he trabajado en proyectos prácticos y obtenido certificaciones en tecnologías clave.
 
-📜 **Certificaciones**: React ⚛️ - Java ☕ - Git 🌱 - Azure AZ-204 (en proceso) ☁️ 
+📜 **Certificaciones**: React ⚛️ - Java ☕ - Git 🌱
 
 💡 Mi experiencia abarca **desarrollo FullStack** y **Cloud Computing**, con énfasis en soluciones escalables.
 
